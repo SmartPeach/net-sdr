@@ -1,0 +1,13 @@
+.\build\spi_flash_w25qxx.o: ..\..\drivers\spi_flash_w25qxx.c
+.\build\spi_flash_w25qxx.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\build\spi_flash_w25qxx.o: ..\..\drivers\spi_flash_w25qxx.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtthread.h
+.\build\spi_flash_w25qxx.o: .\rtconfig.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtdebug.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtdef.h
+.\build\spi_flash_w25qxx.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtservice.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtm.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\include\rtthread.h
+.\build\spi_flash_w25qxx.o: ..\..\..\..\..\..\rt-thread-1.2.1\components\drivers\include\drivers/spi.h
+.\build\spi_flash_w25qxx.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

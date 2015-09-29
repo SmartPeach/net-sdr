@@ -1,0 +1,7 @@
+# object files
+*.o
+*.bak
+
+# jlink files
+JlinkSettings.ini
+JLinkLog.txt

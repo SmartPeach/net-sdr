@@ -1,0 +1,19 @@
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/src/pipe.c
+.\build\pipe.o: ../rt-thread-1.2.1/include/rthw.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtthread.h
+.\build\pipe.o: .\rtconfig.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtdebug.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtdef.h
+.\build\pipe.o: C:\Program Files\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtservice.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtm.h
+.\build\pipe.o: ../rt-thread-1.2.1/include/rtthread.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/rtdevice.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/serial.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/mmcsd_core.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/mmcsd_host.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/mmcsd_card.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/mmcsd_cmd.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/sd.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/sdio.h
+.\build\pipe.o: ../rt-thread-1.2.1/components/drivers/include/drivers/sdio_func_ids.h
